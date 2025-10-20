@@ -1,0 +1,10 @@
+0 Jasmin Rice
+1 Basmati Rice
+2 Dinorado Ric...
+3 Milagrosa Ri...
+4 Malagkit Ric...
+5 Black Rice
+6 Red Rice
+7 Brown Rice
+8 Wild Rice
+9 Arborio Rice
